@@ -1,6 +1,5 @@
-//#include <iostream>
+#include <iostream>
 #include <string>
-//#include "Author.h"
 #include "Book.h"
 
 using namespace std;

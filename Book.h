@@ -23,7 +23,6 @@ public:
     void setQuantity(int );
     int getQuantity();
     string toString();
-   // string getAuthorName();
 
 
 };
